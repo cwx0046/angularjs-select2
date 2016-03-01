@@ -1,0 +1,13 @@
+{
+  "name": "angularjs-select2",
+  "homepage": "https://github.com/gexiaowei/angularjs-select2",
+  "_release": "92878f9f92",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "92878f9f92c05eafc9a3241dccce38d7a97e1faf"
+  },
+  "_source": "git://github.com/gexiaowei/angularjs-select2.git",
+  "_target": "*",
+  "_originalSource": "angularjs-select2"
+}
